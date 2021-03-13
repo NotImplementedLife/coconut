@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coconut", "coconut\coconut.csproj", "{0F79EDD0-7C06-4A13-8320-D8B24424B6F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formstest", "formstest\formstest.csproj", "{346D6E82-9DF7-4D51-8AB0-415256962D1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F79EDD0-7C06-4A13-8320-D8B24424B6F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F79EDD0-7C06-4A13-8320-D8B24424B6F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F79EDD0-7C06-4A13-8320-D8B24424B6F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F79EDD0-7C06-4A13-8320-D8B24424B6F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{346D6E82-9DF7-4D51-8AB0-415256962D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{346D6E82-9DF7-4D51-8AB0-415256962D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{346D6E82-9DF7-4D51-8AB0-415256962D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{346D6E82-9DF7-4D51-8AB0-415256962D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F434395-0F63-4CD7-8633-8EAB2B7CB3BA}
+	EndGlobalSection
+EndGlobal
